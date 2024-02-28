@@ -1,0 +1,12 @@
+.main {
+  border: 1px solid black;
+  padding: 10px;
+}
+.post_block {
+  list-style: none;
+}
+.item_post {
+  border: 1px solid black;
+  padding: 10px;
+  width: 30%;
+}
